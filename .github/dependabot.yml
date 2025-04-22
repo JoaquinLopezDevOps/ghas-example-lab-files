@@ -25,10 +25,6 @@ updates:
     schedule:
       interval: "weekly"
 
-  - package-ecosystem: "dotnet"
-    directory: "/"
-    schedule:
-      interval: "weekly"
 
   - package-ecosystem: "elm"
     directory: "/"
