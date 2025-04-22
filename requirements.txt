@@ -11,5 +11,5 @@ cryptography==2.3  # CVE-2020-36242
 celery==3.1.25  # CVE-2019-1010083
 paramiko==2.4.2  # CVE-2018-7750
 notebook==5.7.4  # CVE-2019-10255
-tornado==4.5.3  # CVE-2019-20446
+tornado==6.4.2  # CVE-2019-20446
 bleach==2.1.2  # CVE-2018-1000510
