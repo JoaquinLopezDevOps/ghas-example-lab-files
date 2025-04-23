@@ -4,6 +4,7 @@ from flask import request, render_template, make_response
 from server.webapp import flaskapp, cursor
 from server.models import Book
 
+SLACK_TOKEN3=xoxb-243254323452332452323-0987654321123-A1b2C3d4E5f6G7h8I9j0
 
 @flaskapp.route('/')
 def index():
