@@ -9,8 +9,6 @@ cursor = sqlite3.connect("data.db").cursor()
 
 # Hardcoded token (CodeQL will flag this)
 SLACK_TOKEN3 = "xoxb-243254323452332452323-0987654321123-A1b2C3d4E5f6G7h8I9j0"
-SLACK_TOKEN2=xoxb-123456789234552345012-0987654321123-A1b2C3d4E5f6G7h8I9j0
-SLACK_TOKEN3=xoxb-243254323452332452323-0987654321123-A1b2C3d4E5f6G7h8I9j0
 
 class Book:
     def __init__(self, name, author, read):
