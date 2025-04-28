@@ -6,7 +6,7 @@ pyyaml==3.13  # CVE-2017-18342, CVE-2020-1747
 jinja2==2.10  # CVE-2019-10906
 sqlalchemy==1.2.19  # CVE-2019-7548
 pillow==6.2.1  # CVE-2020-5313
-markupsafe==1.0  # CVE-2021-23336
+markupsafe==3.0.2  # CVE-2021-23336
 cryptography==2.3  # CVE-2020-36242
 celery==3.1.25  # CVE-2019-1010083
 paramiko==2.4.2  # CVE-2018-7750
