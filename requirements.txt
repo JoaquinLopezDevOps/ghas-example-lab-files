@@ -9,7 +9,7 @@ pillow==6.2.1  # CVE-2020-5313
 markupsafe==1.0  # CVE-2021-23336
 cryptography==2.3  # CVE-2020-36242
 celery==3.1.25  # CVE-2019-1010083
-paramiko==2.4.2  # CVE-2018-7750
+paramiko==3.5.1  # CVE-2018-7750
 notebook==6.4.12  # CVE-2019-10255
 tornado==6.4.2  # CVE-2019-20446
 bleach==2.1.2  # CVE-2018-1000510
