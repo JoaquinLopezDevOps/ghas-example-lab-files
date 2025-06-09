@@ -1,5 +1,5 @@
 flask==0.12  # CVE-2018-1000656, CVE-2018-1000657
-django==1.11.29  # End of life, many known CVEs
+django==4.2.22  # End of life, many known CVEs
 requests==2.19.1  # CVE-2018-18074
 urllib3==1.24.1  # CVE-2019-11324
 pyyaml==3.13  # CVE-2017-18342, CVE-2020-1747
